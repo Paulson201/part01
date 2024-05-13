@@ -9,6 +9,7 @@ The software is quite self explainatory, To add a recipe, removing a recipe, alt
 # The user can now add ingredients, the quantity of the ingredient 
 # The user is now able to state how many steps does a particular recipe need and can describe in detail about each step
 # The user's saved will be shown on the system if they wish
+# Compared to part 1 this updated version can now remove recipes from the system and not only that but it can reset the quantites in it original amounts before the scale up/down
 //////////////////////////
 //////PART 02 Added Features//////
 # The user is now able to enter an UNLIMITED amount of recipes on to the system
